@@ -1,0 +1,39 @@
+slug: k8s-labs
+id: 8qy8eiayalx9
+title: k8s-labs
+teaser: This is a lab where we will walk you through the installation and configuration
+  of a single node kubernetes cluster.
+description: |
+  ## Background
+  Vanilla Kubernetes can be intimidating. Everyone talks
+  about its near mystical powers, but no one really talks about the work involved
+  to setup a well run cluster. This hands-on course will provide an introduction to
+  K8S, that can be run on your laptop. We'll walk through setting it up and some of
+  the tasks you might want to consider implementing. In the afternoon, we will get
+  some experience with OpenShift which is Red Hat's Kubernetes distribution. We'll
+  compare and contrast using an opinionated Kubernetes distribution versus a vanilla
+  Kubernetes installation and give you some food for thought as you are making the
+  decision of which flavor to invest in.
+
+  ## LABS
+  - Kubernetes Cluster Installation via K8S
+  - Installing and Managing Applications
+  - Managing and Scaling Nodes with
+  - Operators- Day 2 Operations I:
+    - Logging
+    - Authentication
+    - Monitoring
+  - Day 2 Operations II:
+    - Templates, Quotas, Limits
+  - Day 2 Operations III:
+    - Networking and NetworkPolicy
+icon: https://logodix.com/logo/1910931.png
+level: expert
+tags:
+- openshift
+owner: openshift
+developers:
+- jaryan@redhat.com
+private: false
+published: false
+checksum: "17329845970432769496"
